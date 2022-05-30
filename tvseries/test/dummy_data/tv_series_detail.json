@@ -1,0 +1,85 @@
+{
+  "adult": false,
+  "backdrop_path": "backdrop_path",
+  "created_by": [],
+  "episode_run_time": [
+    60
+  ],
+  "first_air_date": "2004-01-12",
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "homepage",
+  "id": 1,
+  "in_production": false,
+  "languages": [
+    "ja"
+  ],
+  "last_air_date": "2004-03-22",
+  "last_episode_to_air": {
+    "air_date": "2004-03-22",
+    "episode_number": 1,
+    "id": 1,
+    "name": "name",
+    "overview": "",
+    "production_code": "",
+    "runtime": 1,
+    "season_number": 1,
+    "still_path": null,
+    "vote_average": 0,
+    "vote_count": 0
+  },
+  "name": "name",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "name": "name",
+      "id": 1,
+      "logo_path": "logo_path",
+      "origin_country": "origin_country"
+    }
+  ],
+  "number_of_episodes": 11,
+  "number_of_seasons": 1,
+  "origin_country": [
+    "JP"
+  ],
+  "original_language": "ja",
+  "original_name": "original_name",
+  "overview": "overview",
+  "popularity": 1,
+  "poster_path": "poster_path",
+  "production_companies": [],
+  "production_countries": [
+    {
+      "iso_3166_1": "iso_3166_1",
+      "name": "name"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2004-01-12",
+      "episode_count": 1,
+      "id": 1,
+      "name": "name",
+      "overview": "",
+      "poster_path": "poster_path",
+      "season_number": 1
+    }
+  ],
+  "spoken_languages": [
+    {
+      "english_name": "english_name",
+      "iso_639_1": "iso_639_1",
+      "name": "name"
+    }
+  ],
+  "status": "status",
+  "tagline": "tagline",
+  "type": "type",
+  "vote_average": 1,
+  "vote_count": 1
+}

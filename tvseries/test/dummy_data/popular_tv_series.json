@@ -1,0 +1,26 @@
+{
+  "page": 1,
+  "results": [
+    {
+      "backdrop_path": "backdrop_path",
+      "first_air_date": "first_air_date",
+      "genre_ids": [
+        1
+      ],
+      "id": 1,
+      "name": "name",
+      "origin_country": [
+        "origin_country"
+      ],
+      "original_language": "en",
+      "original_name": "Halo",
+      "overview": "overview",
+      "popularity": 1,
+      "poster_path": "poster_pathg",
+      "vote_average": 1,
+      "vote_count": 1
+    }
+  ],
+  "total_pages": 6641,
+  "total_results": 132810
+}
